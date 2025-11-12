@@ -10,6 +10,7 @@ Template ini sudah termasuk folder `controllers`, `models`, `services`, `routes`
 
 ## 📂 Struktur Proyek
 
+```plaintext
 myapp/
 ├── .env
 ├── go.mod
@@ -28,7 +29,7 @@ myapp/
     │   └── hash.go
     └── routes/
         └── routes.go
-
+```
 
 markdown
    
