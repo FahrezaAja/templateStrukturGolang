@@ -11,17 +11,24 @@ Template ini sudah termasuk folder `controllers`, `models`, `services`, `routes`
 ## 📂 Struktur Proyek
 
 myapp/
-├── .env # File environment
-├── go.mod # Modul Go
+├── .env
+├── go.mod
 ├── cmd/
-│ └── main.go # Entry point aplikasi
+│   └── main.go
 └── app/
-├── config/config.go # Load .env
-├── controllers/home_controller.go
-├── models/user.go
-├── services/user_service.go
-├── utils/hash.go
-└── routes/routes.go
+    ├── config/
+    │   └── config.go
+    ├── controllers/
+    │   └── home_controller.go
+    ├── models/
+    │   └── user.go
+    ├── services/
+    │   └── user_service.go
+    ├── utils/
+    │   └── hash.go
+    └── routes/
+        └── routes.go
+
 
 markdown
    
