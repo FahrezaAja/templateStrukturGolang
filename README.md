@@ -24,7 +24,7 @@ myapp/
 └── routes/routes.go
 
 markdown
-Copy code
+   
 
 ---
 
@@ -63,7 +63,7 @@ Jalankan generator untuk membuat proyek baru
 Ketik perintah di CMD (contoh):
 
 ```bash
-Copy code
+   
 go run D:\GinGenerator\setup.go
 ```
 Masukkan:
@@ -83,39 +83,39 @@ Jalankan server Gin
 Masuk ke folder proyek:
 
 ```bash
-Copy code
+   
 cd myapp
 ```
 Jalankan server:
 
 bash
-Copy code
+   
 go run cmd/main.go
 Buka browser / Postman ke:
 
 http
-Copy code
+   
 http://localhost:8080/
 Response:
 
 json
-Copy code
+   
 {
   "message": "Hello from Gin!"
 }
 Cara melihat lokasi clone template
 
-Buka folder yang berisi setup.go → klik direktori di atas → copy path
+Buka folder yang berisi setup.go → klik direktori di atas →   path
 
 Gunakan path ini di CMD saat menjalankan:
 
 ```bash
-Copy code
+   
 go run D:\Lokasi\GinGenerator\setup.go
 ```
 Gunakan path ini di CMD saat menjalankan:
 
 ```bash
-Copy code
+   
 go run D:\Lokasi\GinGenerator\setup.go
 ```
