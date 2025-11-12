@@ -113,6 +113,7 @@ json
 {
   "message": "Hello from Gin!"
 }
+
 Cara melihat lokasi clone template
 
 Buka folder yang berisi setup.go → klik direktori di atas →   path
