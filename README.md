@@ -54,19 +54,16 @@ go run cmd/main.go
 Gin framework sudah terinstall otomatis (github.com/gin-gonic/gin)
 
 ## 🚀 Cara Menjalankan
-Clone template Gin Generator (lokasi bebas, misal di D:\GinGenerator):
+- Clone template Gin Generator (lokasi bebas, misal di `D:\GinGenerator`):
+  - Buka folder di Explorer, misal `D:\GinGenerator`
+  - Di folder itu sudah ada `setup.go`
 
-Buka folder di Explorer, misal D:\GinGenerator
+- Masuk ke folder projek tujuan (misal di `D:\BERKAS MAGANG\KOMINFO MERAUKE\JadwalGubernur`):
+  - Klik kanan di folder → pilih **“Open in Terminal”**
+  - Atau tekan **Shift + Klik kanan → Open command window here**
 
-Di folder itu sudah ada setup.go
+- Jalankan generator untuk membuat proyek baru
 
-Masuk ke folder projek tujuan (misal di D:\BERKAS MAGANG\KOMINFO MERAUKE\JadwalGubernur)
-
-Klik kanan di folder → pilih “Open in Terminal”
-
-Atau tekan Shift + Klik kanan → Open command window here
-
-Jalankan generator untuk membuat proyek baru
 
 Ketik perintah di CMD (contoh):
 
