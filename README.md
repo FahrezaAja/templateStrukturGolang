@@ -73,19 +73,16 @@ go run D:\GinGenerator\setup.go
 ```
 Masukkan:
 
-Nama proyek → misal: myapp
+- Masukkan nama proyek → misal: `myapp`
 
-Path folder tujuan → tekan Enter jika ingin di folder CMD saat ini
+- Masukkan path folder tujuan → tekan Enter jika ingin di folder CMD saat ini
 
-Hasilnya:
+- Hasilnya:
+  - Folder `myapp` otomatis dibuat di lokasi tujuan
+  - Struktur proyek lengkap dengan semua folder (`cmd`, `app/routes`, dll) dan template file (`main.go`, `.env`, `config.go`)
 
-Folder myapp otomatis dibuat di lokasi tujuan
-
-Struktur proyek lengkap dengan semua folder (cmd, app/routes, dll) dan template file (main.go, .env, config.go)
-
-Jalankan server Gin
-
-Masuk ke folder proyek:
+- Jalankan server Gin:
+  - Masuk ke folder proyek:
 
 ```bash
    
@@ -111,12 +108,9 @@ json
   "message": "Hello from Gin!"
 }
 
-Cara melihat lokasi clone template
-
-Buka folder yang berisi setup.go → klik direktori di atas →   path
-
-Gunakan path ini di CMD saat menjalankan:
-
+- Cara melihat lokasi clone template:  
+  - Buka folder yang berisi `setup.go` → klik direktori di atas → copy path  
+  - Gunakan path ini di CMD saat menjalankan:
 ```bash
    
 go run D:\Lokasi\GinGenerator\setup.go
