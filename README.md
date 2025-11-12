@@ -1,4 +1,4 @@
-# templateStrukturGolang
+# Template Struktur Golang
 ![Go](https://img.shields.io/badge/Go-1.21-blue.svg)
 ![Gin](https://img.shields.io/badge/Gin-1.11.0-lightgrey.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
