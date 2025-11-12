@@ -53,7 +53,7 @@ go run cmd/main.go
 ```
 Gin framework sudah terinstall otomatis (github.com/gin-gonic/gin)
 
-🚀 Cara Menjalankan
+## 🚀 Cara Menjalankan
 Clone template Gin Generator (lokasi bebas, misal di D:\GinGenerator):
 
 Buka folder di Explorer, misal D:\GinGenerator
