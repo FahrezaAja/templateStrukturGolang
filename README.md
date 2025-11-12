@@ -96,14 +96,16 @@ cd myapp
 ```
 Jalankan server:
 
-bash
+```bash
    
 go run cmd/main.go
+```
 Buka browser / Postman ke:
 
-http
+```http
    
 http://localhost:8080/
+```
 Response:
 
 json
