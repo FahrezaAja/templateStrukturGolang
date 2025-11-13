@@ -54,6 +54,11 @@ go run cmd/main.go
 Gin framework sudah terinstall otomatis (github.com/gin-gonic/gin)
 
 ## 🚀 Cara Menjalankan
+- Pastikan sudah menginstall golang di perangkat anda dengan mengetik :
+```bash
+go version
+```
+
 - Clone template Gin Generator (lokasi bebas, misal di `D:\templateStrukturGolang`):
   - Buka folder di Explorer, misal `D:\templateStrukturGolang`
   - Di folder itu sudah ada `setup.go`
