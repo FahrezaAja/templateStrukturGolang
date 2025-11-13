@@ -47,11 +47,7 @@ markdown
   - Routes
   - Config
 - File `.env` standar untuk server, database, JWT, dan logging
-- Bisa langsung dijalankan:
-```bash
-go run cmd/main.go
-```
-Gin framework sudah terinstall otomatis (github.com/gin-gonic/gin)
+- Gin framework sudah terinstall otomatis (github.com/gin-gonic/gin)
 
 ## 🚀 Cara Menjalankan
 - Pastikan sudah menginstall golang di perangkat anda dengan mengetik :
