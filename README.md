@@ -54,8 +54,8 @@ go run cmd/main.go
 Gin framework sudah terinstall otomatis (github.com/gin-gonic/gin)
 
 ## 🚀 Cara Menjalankan
-- Clone template Gin Generator (lokasi bebas, misal di `D:\GinGenerator`):
-  - Buka folder di Explorer, misal `D:\GinGenerator`
+- Clone template Gin Generator (lokasi bebas, misal di `D:\templateStrukturGolang`):
+  - Buka folder di Explorer, misal `D:\templateStrukturGolang`
   - Di folder itu sudah ada `setup.go`
 
 - Masuk ke folder projek tujuan (misal di `D:\BERKAS MAGANG\KOMINFO MERAUKE\JadwalGubernur`):
@@ -69,7 +69,7 @@ Ketik perintah di CMD (contoh):
 
 ```bash
    
-go run D:\GinGenerator\setup.go
+go run D:\templateStrukturGolang\setup.go
 ```
 Masukkan:
 
@@ -113,7 +113,7 @@ json
   - Gunakan path ini di CMD saat menjalankan:
 ```bash
    
-go run D:\Lokasi\GinGenerator\setup.go
+go run D:\Lokasi\templateStrukturGolang\setup.go
 ```
 Gunakan path ini di CMD saat menjalankan:
 
