@@ -59,7 +59,7 @@ go version
   - Buka folder di Explorer, misal `D:\templateStrukturGolang`
   - Di folder itu sudah ada `setup.go`
 
-- Masuk ke folder projek tujuan (misal di `D:\BERKAS MAGANG\KOMINFO MERAUKE\JadwalGubernur`):
+- Masuk ke folder projek tujuan (misal di `D:\`):
   - Klik kanan di folder → pilih **“Open in Terminal”**
   - Atau tekan **Shift + Klik kanan → Open command window here**
 
